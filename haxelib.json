@@ -7,6 +7,7 @@
   "releasenote": "Bug fixes, added support for TJ_unserialize callback",
   "version": "1.4.0",
   "url": "https://github.com/martamius/TJSON",
+  "classPath": "lib",
   "dependencies": {
 
   }
